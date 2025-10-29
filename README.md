@@ -32,7 +32,7 @@ This project demonstrates a complete **end-to-end data workflow** — web automa
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Selenium-AmazonAudiobooks-MongoDB-Data-Pipeline.git
+git clone https://github.com/WanjohiK/Selenium-AmazonAudiobooks-Mongodb-Data-Pipeline.git
 cd Selenium-AmazonAudiobooks-MongoDB-Data-Pipeline
 ```
 
