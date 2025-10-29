@@ -38,7 +38,7 @@ cd Selenium-AmazonAudiobooks-MongoDB-Data-Pipeline
 
 ---
 
-### ** 2️⃣ Create a Virtual Environment**
+### **2️⃣ Create a Virtual Environment**
 
 python -m venv venv
 source venv/bin/activate     # macOS / Linux
