@@ -36,23 +36,33 @@ This project demonstrates a complete **end-to-end data workflow** — web automa
 git clone https://github.com/<your-username>/Selenium-AmazonAudiobooks-MongoDB-Data-Pipeline.git
 cd Selenium-AmazonAudiobooks-MongoDB-Data-Pipeline
 
+---
+
 ### ** 2️⃣ Create a Virtual Environment**
 
 python -m venv venv
 source venv/bin/activate     # macOS / Linux
 venv\Scripts\activate        # Windows
 
+---
+
 ### **3️⃣ Install Dependencies**
 
 pip install -r requirements.txt
+
+---
 
 ### **4️⃣ Configure MongoDB Connection**
 
 client = MongoClient("mongodb+srv://<username>:<password>@cluster0.mongodb.net/?appName=Cluster0")
 
+---
+
 ### ▶️ Run the Script
 
 python audible_scraper.py
+
+---
 
 
 
